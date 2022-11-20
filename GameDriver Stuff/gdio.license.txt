@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<license>
+  <licensee>Juan Monge_juanmonge95@gmail.com_N/A</licensee>
+  <licenseid>TRIAL</licenseid>
+  <hostid>ANY</hostid>
+  <platforms>
+    <platform>Windows</platform>
+    <platform>macOS</platform>
+    <platform>iOS</platform>
+  </platforms>
+  <addins>
+    <addin>Visual Studio</addin>
+    <addin>Visual Studio Mac</addin>
+  </addins>
+  <start_date>2022-11-18</start_date>
+  <expiration_date>2022-12-03</expiration_date>
+  <signature>A3EB5FC2C4AD4D46555C005AB1432B472E465C3A42496A5AFC3899FB10EA5D9F3D53DCE13C7EE48A898B4B60EF3D3B77F3EE37F17306A5C35BB30397F9F33705</signature>
+</license>
